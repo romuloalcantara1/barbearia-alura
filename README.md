@@ -1,17 +1,19 @@
-﻿# 💈Barbearia Alura
+﻿## [🚀 Tecnologias](https://github.com/romuloalcantara1/barbearia-alura)
 
-**O foi trabalhado**
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- A primeira página da Web  
-- Posicionamento, listas e navegação  
-- Formulários e tabelas  
-- Estruturas de decisões  
-- Avançando no CSS  
+-   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Objetivo:
+## [💻 Projeto](https://github.com/romuloalcantara1/barbearia-alura)
 
-Criar um site com HTML5 e CSS3 de uma barbearia fictícia, trabalhando com divs, imagens e etc. 
+O projeto foi elaborado durante as aulas do curso de Front-end da Alura onde foram abordados os seguintes conceitos:
 
-## Saída
+-   Apresentação e posicionamento dos elementos na tela
+-   Aplicação de fontes customizadas
+-   Cores e fontes
+-   Alinhamento de textos e elementos
+-   Espaçamentos
+-   Bordas e classificação de elementos
+-   Posicionamento dos elementos
 
-O site finalizado com links, descrições, interatividade e com acessibilidade para os usuários utilizarem.
